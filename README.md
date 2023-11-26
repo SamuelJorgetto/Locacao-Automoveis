@@ -46,6 +46,10 @@ Foram inseridos registros de exemplo nas tabelas `cliente` e `veiculo` para demo
 
 ## Consultas e Views
 
+
+![image](https://github.com/SamuelJorgetto/Locacao-Automoveis/assets/144075081/cca657ec-5705-447b-b490-b65fae922021)
+
+
 ### Consulta de Registros na Tabela `veiculo`
 
 A consulta abaixo exibe os registros presentes na tabela `veiculo`:
